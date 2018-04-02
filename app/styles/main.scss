@@ -1,0 +1,12 @@
+@import "variables.scss";
+@import "nav.scss";
+$icon-font-path: '../fonts/';
+// bower:scss
+@import "bower_components/bootstrap-sass/assets/stylesheets/_bootstrap.scss";
+// endbower
+
+.container {
+	//border: 2px solid coral;
+	width: 100% !important;
+	padding: 0;
+}
